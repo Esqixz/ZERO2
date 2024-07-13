@@ -1,4 +1,4 @@
-local Window            = Library:CreateWindow("Zero - World Zero")
+local Window            = CreateWindow("Zero - World Zero")
 local Folder            = Window:CreateFolder("Farm")
 local Folder2           = Window:CreateFolder("MISC")
 local Player            = game:GetService("Players").LocalPlayer
